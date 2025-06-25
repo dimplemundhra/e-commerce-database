@@ -1,7 +1,7 @@
 ### e-commerce-database
 This project contains the SQL schema and data operations for a simple e-commerce system, developed using **MySQL Workbench**. It includes table creation, data insertion, updates, deletions, and proper handling of NULL values and keys.
 
-### 📁 Project Structure
+### 📁 Database Structure
 
 - **ecommerce.sql** → Full database schema with `CREATE TABLE` statements
 - **task2_data_handling.sql** → Data insertion, update, and delete statements
