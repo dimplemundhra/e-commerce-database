@@ -1,13 +1,14 @@
 ### 🛒 E-commerce Database 
 
-This project contains the SQL schema and data operations for a simple e-commerce system, developed using **MySQL Workbench**. It includes table creation, data insertion, updates, deletions, basic data retrieval, and proper handling of NULL values and keys.
+This task contains the SQL schema and data operations for a simple e-commerce system, developed using **MySQL Workbench**. It includes table creation, data insertion, updates, deletions, basic data retrieval, aggregation, and proper handling of NULL values and keys.
 
 ### 📁 Task Structure
 
-- **ecommerce.sql** → Full database schema with `CREATE TABLE` statements
+- **task1_schema.sql** → Full database schema with `CREATE TABLE` statements
 - **task2_data_handling.sql** → Data insertion, update, and delete statements
 - **task3_select_queries.sql** → Basic `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` queries
-- **README.md** → Project documentation
+- **task4_aggregates_grouping.sql** → `SUM`, `COUNT`, `AVG`, `GROUP BY`, `HAVING` without JOINs
+- **README.md** → Task documentation
 
 ### 📊 Entities and Tables
 
@@ -26,13 +27,15 @@ This project contains the SQL schema and data operations for a simple e-commerce
 - ✅ Use of `AUTO_INCREMENT` for primary keys
 - ✅ Safe use of `INSERT`, `UPDATE`, `DELETE` with `WHERE`
 - ✅ Basic SQL data extraction using `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+- ✅ Data summarization using `SUM`, `COUNT`, `AVG`, `GROUP BY`, and `HAVING`
+
 
 ### 🚀 How to Use
 
-1. Import `ecommerce.sql` in **MySQL Workbench** or **phpMyAdmin**
+1. Import `task1_schema.sql` in **MySQL Workbench** 
 2. Run `task2_data_handling.sql` to populate and test the database
 3. Run `task3_select_queries.sql` to explore data using basic queries
-4. Extend or integrate with web/mobile app backends
+4. Run `task4_aggregates_grouping.sql` to summarize and group data
 
 ### 📌 Tools Used
 
@@ -42,8 +45,6 @@ This project contains the SQL schema and data operations for a simple e-commerce
 ### 🧑‍💻 Author
 
 [Dimple Mundhra](https://github.com/dimplemundhra)
-
----
 
 ### 📜 License
 
