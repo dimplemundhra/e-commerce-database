@@ -10,7 +10,7 @@ This task contains the SQL schema and data operations for a simple e-commerce sy
 - **task4_aggregates_grouping.sql** → Aggregations using `SUM`, `COUNT`, `AVG`, `GROUP BY`, `HAVING`  
 - **task5_sql_joins.sql** → SQL JOINs using `INNER`, `LEFT`, `RIGHT`, `FULL` (via `UNION`)  
 - **task6_subqueries.sql** → Scalar, correlated, and nested subqueries in `SELECT`, `WHERE`, and `FROM`  
-- **README.md** → Project documentation
+- **README.md** → Task documentation
 
 
 ### 📊 Entities and Tables
@@ -54,4 +54,4 @@ This task contains the SQL schema and data operations for a simple e-commerce sy
 
 ### 📜 License
 
-This project is open for educational and personal learning purposes.
+This task is open for my own educational and personal learning purposes.
