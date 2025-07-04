@@ -9,7 +9,8 @@ This task contains the SQL schema and data operations for a simple e-commerce sy
 - **task3_select_queries.sql** → Basic `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` queries  
 - **task4_aggregates_grouping.sql** → Aggregations using `SUM`, `COUNT`, `AVG`, `GROUP BY`, `HAVING`  
 - **task5_sql_joins.sql** → SQL JOINs using `INNER`, `LEFT`, `RIGHT`, `FULL` (via `UNION`)  
-- **task6_subqueries.sql** → Scalar, correlated, and nested subqueries in `SELECT`, `WHERE`, and `FROM`  
+- **task6_subqueries.sql** → Scalar, correlated, and nested subqueries in `SELECT`, `WHERE`, and `FROM`
+- **task7_views.sql** → View creation for simplified and reusable SQL queries  
 - **task8_procedures_functions.sql** → Stored procedures and user-defined functions  
 - **README.md** → Task documentation
 
@@ -33,7 +34,8 @@ This task contains the SQL schema and data operations for a simple e-commerce sy
 - ✅ Basic SQL data extraction using `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`  
 - ✅ Data summarization using `SUM`, `COUNT`, `AVG`, `GROUP BY`, and `HAVING`  
 - ✅ Data merging using SQL JOINs (`INNER`, `LEFT`, `RIGHT`, `FULL` via `UNION`)  
-- ✅ Advanced query logic using scalar, correlated, and nested subqueries  
+- ✅ Advanced query logic using scalar, correlated, and nested subqueries
+- ✅ Reusable and abstracted logic with SQL `VIEW`s
 - ✅ Modularization of logic using stored procedures and user-defined functions  
 
 
@@ -44,8 +46,9 @@ This task contains the SQL schema and data operations for a simple e-commerce sy
 3. Run `task3_select_queries.sql` to explore data using basic queries  
 4. Run `task4_aggregates_grouping.sql` to practice aggregation and grouping  
 5. Run `task5_sql_joins.sql` to learn and test various JOIN types  
-6. Run `task6_subqueries.sql` to practice subqueries and nested logic  
-7. Run `task8_procedures_functions.sql` to define and execute stored procedures and functions  
+6. Run `task6_subqueries.sql` to practice subqueries and nested logic
+7. Run `task7_views.sql` to create and use views for simplified data access
+8. Run `task8_procedures_functions.sql` to define and execute stored procedures and functions  
 
 
 ### 📌 Tools Used
